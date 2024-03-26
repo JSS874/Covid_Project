@@ -1,0 +1,17 @@
+{
+  "name": "covid-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.1.4",
+    "react": "^18",
+    "react-charts": "^3.0.0-beta.57",
+    "react-dom": "^18"
+  }
+}
